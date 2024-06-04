@@ -15,4 +15,4 @@ assignment
 Η ιστοσελίδα αναπτύχθηκε στο περιβάλλον Visual Studio Code 
 
 
-[http://localhost/phpmyadmin/index.php?route=/database/structure&db=recipes_database]
+http://localhost/phpmyadmin/index.php?route=/database/structure&db=recipes_database
